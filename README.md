@@ -1,5 +1,7 @@
 # Me he unido al desafío de #100DaysOfCode.
 
+[![Join the chat at https://gitter.im/100-dias-de-codigo/Lobby](https://badges.gitter.im/100-dias-de-codigo/Lobby.svg)](https://gitter.im/100-dias-de-codigo/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Contenido
 * [Reglas](reglas.md)
 * [Diario - click aquí para ver mi progreso](diario.md)
