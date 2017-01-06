@@ -1,10 +1,10 @@
 # Me he unido al desafío de #100DaysOfCode.
 
 ## Contenido
-* [Reglas](reglas.md)
-* [Diario - click aquí para ver mi progreso](diario.md)
+* [Reglas](Reglas.md)
+* [Diario - click aquí para ver mi progreso](Diario.md)
 * [FAQ](FAQ.md)
-* [Recursos](recursos.md)
+* [Recursos](Recursos.md)
 
 ## Si quieres unirte:
 1. Debes leer [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
