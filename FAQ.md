@@ -33,7 +33,7 @@
   El desafío es individual, cuando quieras puedes empezar. Cuando publiques en tus redes usando #100DaysOfCode asegurate de poner en que día vas, así las personas sabrán donde están para que pueda ayudarte.  
 
 ## Contenidos
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Reglas](reglas.md)
+* [Diario - click aquí para ver tu progreso](diario.md)
 * [FAQ](FAQ.md)
-* [Resources](resources.md)
+* [Recursos](recursos.md)
