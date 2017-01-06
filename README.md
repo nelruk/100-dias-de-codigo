@@ -1,10 +1,10 @@
 # Me he unido al desafío de #100DaysOfCode.
 
 ## Contenido
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Reglas](reglas.md)
+* [Diario - click aquí para ver mi progreso](diario.md)
 * [FAQ](FAQ.md)
-* [Resources](resources.md)
+* [Recursos](recursos.md)
 
 ## Si quieres unirte:
 1. Debes leer [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
@@ -18,5 +18,5 @@
 9. Si encontras algo genial, algo que pueda ayudar a todos, haz un Pull Request para añadirlo al repo o tuitealo.
 
 ## Nota
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
+* ¿Preguntas? Al Twitter de: [@ka11away](https://twitter.com/ka11away)
 * Si te gusta este repositorio considera forkear y mejorar;
