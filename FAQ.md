@@ -1,6 +1,6 @@
 ## FAQ:
   **Q:** ¿Como puedo mantenerme en contacto con las personas que también están haciendo este desafío?  
-  **A:** Search for #100DaysOfCode on Twitter, or join [the 100DaysOfCode room on Gitter](https://gitter.im/Kallaway/100DaysOfCode) — you don’t need an invite, it’s open for anyone to join. Also, follow [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) on Twitter to stay in touch with the community. Busca a otros que estan haciendo el desafio con el hashtag #100DaysOfCode en Twitter; unite también a [la sala en Gitter](https://gitter.im/Kallaway/100DaysOfCode) - sin invitación, podes entrar cuando quieras.
+  **A:** Busca #100DaysOfCode en Twitter, unete en Gitter [the 100DaysOfCode room on Gitter](https://gitter.im/100-dias-de-codigo/Lobby) — sin invitación, ingresa y unite. Seguí a [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) en Twitter.
 
   **Q:** Ya inicié el desafío y estoy actualmente en el día 8. ¿Como puedo usar este repositorio para guardar mi progreso? 
   **A:** No te preocupes. Guarda tanta información como puedas pero si no se puede, continua desde allí mismo. Si estuviste tuiteando sobre tu progreso, puedes presentar los links de los tuits de cada día. Luego, empieza a seguir el formato.
