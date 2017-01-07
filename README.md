@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/100-dias-de-codigo/Lobby](https://badges.gitter.im/100-dias-de-codigo/Lobby.svg)](https://gitter.im/100-dias-de-codigo/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+Unete cuando quieras, sin invitación. Nos ayudamos entre todos en esta tarea
+
 ## Contenido
 * [Reglas](Reglas.md)
 * [Diario - click aquí para ver mi progreso](Diario.md)
