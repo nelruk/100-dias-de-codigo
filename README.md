@@ -22,6 +22,6 @@ Unete cuando quieras, sin invitación. Nos ayudamos entre todos en esta tarea
 9. Si encontras algo genial, algo que pueda ayudar a todos, haz un Pull Request para añadirlo al repo o tuitealo.
 
 ## Nota
-* ¿Preguntas? Al Twitter de: [@ka11away](https://twitter.com/ka11away) si manejas inglés o bien podes preguntarme también a mi: [@nelruk](https://twitter.com/nelruk)
+* ¿Preguntas? Al Twitter de: [@ka11away](https://twitter.com/ka11away) si manejas inglés o bien podes preguntarme también a mi: [@nelsondcg1](https://twitter.com/nelsondcg1)
 * Si te gusta este repositorio considera forkear y mejorar;
 * Si tenes más información de más recursos, por favor, informanos :)
